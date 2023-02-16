@@ -1,1 +1,2 @@
 # women-safety-app
+Women Safety is a major issue that has been the most significant topic to date. According to Zambia Police service 2021 Annual GBV Data Analysis; on 16th February 2022- A total of 20,540 cases of Gender Based Violence were reported countrywide of which 79.4% represents females and 20.6% represent males. Looking at these figures it clearly shows that females are the most victims of Gender based violence (GBV). Hence the Women Safety App project which aims at reducing GBV cases and provide safety for women being the most victims of Gender based Violence.
